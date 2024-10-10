@@ -5,7 +5,6 @@ I am currently a student at the University of North Alabama. My major is in Comp
 
 * 🌍  I'm based in Florence, AL
 * ✉️  You can contact me at [gbouldin43@gmail.com](mailto:gbouldin43@gmail.com)
-* 🚀  I'm currently working on [Personal Profile App](http://https://github.com/gbouldin43/octo-fiesta-edward)
 * 🧠  I'm learning HTML, CSS, and JS
 
 <a href="https://www.github.com/gbouldin43" target="_blank" rel="noreferrer"><img
