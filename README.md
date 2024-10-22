@@ -1,7 +1,7 @@
 Hi 👋 My name is Garrett Bouldin
 ================================
 
-I am currently a student at the University of North Alabama. My major is in Computer Information Systems, so I am currently taking management and computer courses. The computer courses are what I am really interested in, especially the web development course I am taking this semester. Web development is something that has always intrigued me and I am really enjoying learning about it. I will be posting projects and assignments that I work on this semester to GitHub. See my portfolio at [🚀 Garrett's Dev Profile](http://barrycumbie.com)
+I am currently a student at the University of North Alabama. My major is in Computer Information Systems, so I am currently taking management and computer courses. The computer courses are what I am really interested in, especially the web development course I am taking this semester. Web development is something that has always intrigued me and I am really enjoying learning about it. I will be posting projects and assignments that I work on this semester to GitHub. See my portfolio at [🚀 Garrett's Dev Profile](https://gbouldin43.github.io/gbouldin43/)
 
 * 🌍  I'm based in Florence, AL
 * ✉️  You can contact me at [gbouldin43@gmail.com](mailto:gbouldin43@gmail.com)
